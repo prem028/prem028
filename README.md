@@ -1,5 +1,5 @@
 # 💫 About Me:
- am passionate about the world of Data Science, Artificial Intelligence (AI), Machine Learning (ML), and Data Analytics. My journey involves exploring how data can be transformed into meaningful insights and intelligent solutions.<br><br>🔍 I enjoy analyzing complex datasets to uncover patterns and trends.<br><br>🤖 I'm enthusiastic about building AI and ML models that solve real-world problems.<br><br>📊 I use tools like Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Tableau for data visualization and analysis.<br><br>🎯 My goal is to contribute to innovative projects that leverage the power of data for smarter decision-making.
+I am passionate about the world of Data Science, Artificial Intelligence (AI), Machine Learning (ML), and Data Analytics. My journey involves exploring how data can be transformed into meaningful insights and intelligent solutions.<br><br>🔍 I enjoy analyzing complex datasets to uncover patterns and trends.<br><br>🤖 I'm enthusiastic about building AI and ML models that solve real-world problems.<br><br>📊 I use tools like Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and Tableau for data visualization and analysis.<br><br>🎯 My goal is to contribute to innovative projects that leverage the power of data for smarter decision-making.
 
 
 ## 🌐 Socials:
